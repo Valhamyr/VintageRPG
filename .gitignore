@@ -5,3 +5,10 @@ libs/*
 # Ignore example mod packages
 Example Mods/
 *.zip
+
+# Ignore built mod assembly
+mod/*.dll
+
+# Ignore build directories
+bin/
+obj/
