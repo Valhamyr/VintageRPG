@@ -4,6 +4,7 @@
     <AssemblyName>VintageRPG</AssemblyName>
     <RootNamespace>VintageRPG</RootNamespace>
     <OutputType>Library</OutputType>
+    <OutDir>mod/</OutDir>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="VintagestoryAPI" HintPath="libs/VintagestoryAPI.dll" Private="false" />
