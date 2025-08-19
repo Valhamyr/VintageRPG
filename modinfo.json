@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "vintagerpg",
+  "name": "Vintage RPG",
+  "side": "universal",
+  "description": "Adds RPG features. Currently adds a Flight ability to XSkills' Survival skill allowing creative flight.",
+  "authors": ["OpenAI Assistant"],
+  "version": "0.0.1",
+  "dependencies": {
+    "xskills": "*",
+    "xlib": "*"
+  }
+}
