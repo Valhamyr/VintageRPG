@@ -1,6 +1,6 @@
 # Ignore binary libraries
-mods/vintagerpg/libs/*
-!mods/vintagerpg/libs/.gitkeep
+libs/*
+!libs/.gitkeep
 
 # Ignore example mod packages
 Example Mods/
